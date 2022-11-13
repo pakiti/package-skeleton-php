@@ -1,12 +1,6 @@
 {
     "name": "pakiti/package-skeleton-php",
     "description": ":package_description",
-    "keywords": [
-        ":vendor_name",
-        ":package_slug"
-    ],
-    "homepage": "https://github.com/:vendor_slug/:package_slug",
-    "license": "MIT",
     "authors": [
         {
             "name": ":author_name",
