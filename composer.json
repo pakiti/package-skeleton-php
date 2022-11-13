@@ -1,5 +1,5 @@
 {
-    "name": ":vendor_slug/:package_slug",
+    "name": "pakiti/package-skeleton-php",
     "description": ":package_description",
     "keywords": [
         ":vendor_name",
